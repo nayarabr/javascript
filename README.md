@@ -2,6 +2,11 @@
 ---------------
 ## Módulo 1: Primeiros passos com Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/primeiros-passos)
 
+## Módulo 2: Conhecendo funções Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/funcoes)
+
+## Módulo 3: Criando objetos e classes em Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/objetos-classes)
+
+## Módulo 4: Arrays e estruturas de reposição em Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/arrays-estruturas-repeticao)
 
 ---------------
 ### Olá! Sou Nayara Bastos 💜
