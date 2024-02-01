@@ -8,6 +8,8 @@
 
 ## Módulo 4: Arrays e estruturas de reposição em Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/arrays-estruturas-repeticao)
 
+## Módulo 5: Importação e Exportação com Javascript - [repositório](https://github.com/nayarabr/javascript/tree/main/importacao)
+
 ---------------
 ### Olá! Sou Nayara Bastos 💜
 #### Conecte-se comigo
